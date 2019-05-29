@@ -8,7 +8,7 @@
 # import codecs
 
 """
-Configure Vmnet Networks using Vmware Fusion
+Configure Vmnet Networks using Vmware Fusion v1.0
 """
 import os
 from netaddr import IPNetwork
