@@ -1,1 +1,6 @@
+run_ssh_tab.sh
+*.log
+.*
+*.retry
 docum
+pcap
